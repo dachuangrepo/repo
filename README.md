@@ -1,6 +1,6 @@
-# 仓库
+# 说明
 
-> 使用方法
+> 第一步：在POM.xml文件，节点repositories添加repository
 
     <repositories>
         <repository>
@@ -9,5 +9,10 @@
         </repository>
     </repositories>
 
-# PC端
+> 第二步：直接在dependency添加依赖即可
 
+	<dependency>
+		<groupId>com.ckfinder</groupId>
+		<artifactId>ckfinder</artifactId>
+		<version>2.3</version>
+	</dependency>
