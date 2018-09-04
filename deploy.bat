@@ -13,7 +13,7 @@ rem mvn deploy:deploy-file -Dmaven.test.skip=true -Dfile=d:\Dev-Work\git-repo\ck
 git init
 git add d:/Dev-Work/git-repo/*
 git commit -m "first commit"
-git remote add origin git@github.com:dachuangrepo/repo.git
+git remote add origin https://github.com/dachuangrepo/repo.git
 git push -u origin master
 
 pause
