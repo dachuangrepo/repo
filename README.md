@@ -1,15 +1,15 @@
 # 说明
 
-> 第一步：在POM.xml文件，节点repositories添加repository
+> 第一步：配置POM.xml，添加repository
 
     <repositories>
         <repository>
             <id>dachuangrepo-repo</id>
-            <url>https://raw.githubusercontent.com/dachuangrepo/repo/master/repository</url>
+            <url>https://raw.githubusercontent.com/dachuangrepo/repo/master</url>
         </repository>
     </repositories>
 
-> 第二步：直接在dependency添加依赖即可
+> 第二步：配置POM.xml，添加dependency依赖
 
     <dependencies>
         <dependency>
