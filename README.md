@@ -67,4 +67,20 @@
             <artifactId>UserAgentUtils</artifactId>
             <version>1.13</version>
         </dependency>
+		
+        <dependency>
+            <groupId>org.jdesktop </groupId>
+            <artifactId>appframework</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.xvolks</groupId>
+            <artifactId>JNative</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jdesktop </groupId>
+            <artifactId>swing-worker</artifactId>
+            <version>1.1</version>
+        </dependency>
     </dependencies>
