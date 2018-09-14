@@ -13,73 +13,73 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.wltea.analyzer</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>analyzer</artifactId>
             <version>2012_u6</version>
         </dependency>
         <dependency>
-            <groupId>org.apache.tools</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>apache-ant-zip</artifactId>
             <version>2.3</version>
         </dependency>
         <dependency>
-            <groupId>com.ckfinder</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>ckfinder</artifactId>
             <version>2.3</version>
         </dependency>
         <dependency>
-            <groupId>com.ckfinder</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>ckfinderplugin-fileeditor</artifactId>
             <version>2.3</version>
         </dependency>
         <dependency>
-            <groupId>com.ckfinder</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>ckfinderplugin-imageresize</artifactId>
             <version>2.3</version>
         </dependency>
         <dependency>
-            <groupId>fonts</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>font_song</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
-            <groupId>com.lowagie</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>iTextAsian</artifactId>
             <version>0.0.1</version>
         </dependency>
         <dependency>
-            <groupId>com.oracle</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>ojdbc14</artifactId>
             <version>10.2.0.4.0</version>
         </dependency>
         <dependency>
-            <groupId>net.coobird</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>thumbnailator</artifactId>
             <version>0.4.2</version>
         </dependency>
         <dependency>
-            <groupId>com.baidu.ueditor</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>ueditor</artifactId>
             <version>1.1.2</version>
         </dependency>
         <dependency>
-            <groupId>eu.bitwalker</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>UserAgentUtils</artifactId>
             <version>1.13</version>
         </dependency>
 		
         <dependency>
-            <groupId>org.jdesktop </groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>appframework</artifactId>
             <version>1.0.3</version>
         </dependency>
         <dependency>
-            <groupId>org.xvolks</groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>JNative</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
-            <groupId>org.jdesktop </groupId>
+            <groupId>com.dachuang</groupId>
             <artifactId>swing-worker</artifactId>
             <version>1.1</version>
         </dependency>
